@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 와 블로그!!
+title: 첫 블로그!
 date: 2024-01-16 17:29 +0900
 description: 
-image: https://item.kakaocdn.net/do/dc9561970173c28a13654c3f14180b4bf43ad912ad8dd55b04db6a64cddaf76d
+image: /assets/img/istp-t 2.jpg
 category: 자유
-tags: 
+tags: free
 published: true
 sitemap: true
 ---
 
-블로그를 만들어보았다
+내 인생에서 쓰는 첫 블로그이다. 앞으로 내가 배운 것들을 정리하고 복습함으로써 내 목표가 뚜렷해지길 바란다.
