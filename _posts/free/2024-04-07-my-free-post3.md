@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 첫 블로그!
-date: 2024-01-16 17:29 +0900
+date: 2024-04-07 17:29 +0900
 description: 
 image: /assets/img/isfp.jpg
 category: 자유
