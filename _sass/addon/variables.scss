@@ -38,5 +38,12 @@ $code-icon-width: 1.75rem !default;
     font-style: normal;
 }
 
-$font-family-base: 'NanumSquareRound', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: 'NanumSquareRound', 'Microsoft Yahei', sans-serif !default;
+@font-face {
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-family-base: 'NanumSquareNeo-Variable', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: 'NanumSquareNeo-Variable', 'Microsoft Yahei', sans-serif !default;
